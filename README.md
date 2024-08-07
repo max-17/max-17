@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">An autodidact web developer situated in South Korea</h3>
+<h3 align="center">An autodidact web developer situated in Tshkent Uzbekistan</h3>
 
-- 🔭 I’m currently working on [finace manager](https://github.com/max-17/finance_manager)
+- 🔭 I’m currently working on [OY GUL Project](https://oy-gul.uz)
 
 - 🌱learning **Trello, Agile SCRUM, T3 stack, DaisyUI**
 
-- 👨‍💻 My portfolio:  [👉 makhmud.dev ](max-17.github.io/portfolio/)
+- 👨‍💻 My portfolio:  [👉 maxmud.dev ](max-17.github.io/portfolio/)
 
 - 📫 How to reach me **makhmudjon17@gmail.com**
 
-- ⚡ Fun fact **I like to live dangerously: I all my packages to the newest version**
+- ⚡ Fun fact **I like to live dangerously: I like to update all my dependancies to the newest version**
 
 <h3 align="left">Connect with me:</h3>
 <img align='right' alt='makhmud.dev' width='400' src='https://raw.githubusercontent.com/max-17/portfolio/2b3c18e51f66a99835e16aca31a609e3ceed81f8/public/image.png'>
