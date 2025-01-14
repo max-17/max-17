@@ -5,7 +5,7 @@
 
 - 🌱learning **Trello, Agile SCRUM, T3 stack, DaisyUI**
 
-- 👨‍💻 My portfolio:  [👉 maxmud-dev.uz ](max-17.github.io/portfolio/)
+- 👨‍💻 My portfolio:  [👉 maxmud-dev.uz ](maxmud-dev.uz)
 
 - 📫 How to reach me **makhmudjon17@gmail.com**
 
